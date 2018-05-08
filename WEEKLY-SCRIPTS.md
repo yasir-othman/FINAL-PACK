@@ -1,6 +1,6 @@
 Welcome to the FINAL-PACK wiki!
-Taking Linux Class was great experiences for me, I learned a lot even though,
-and I feel confident using Linux more than ever before.
+Taking Linux Class was great experiences for me, I learned a lot about Linux,
+and I feel more confident using Linux than ever before....
 
 First Couple Weeks I learned basic of Git hub and create my first Repository/ Hello World Repo
 
