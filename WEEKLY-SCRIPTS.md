@@ -35,6 +35,24 @@ Week Nine we learned new command regard routing and figure out the network inter
 
 [Week-Nine](https://github.com/yasir-othman/chapter-9/blob/master/chapter9.sh)
 
+Week Twelve   [Week12](https://github.com/yasir-othman/week12)
 
 
+Week 13 we started to work on group project/ POSTFIX, however our initial project was MEDIAWIKI, then we did MOINM MOIN WIKI, unfortunately thes to projects didn't work because some conflicts with the PHP and APACHE compatibility with the server...
 
+[Week-13](https://github.com/yasir-othman/week-13)
+
+[Week-14](https://github.com/yasir-othman/WEEK-14)
+
+[Week-15](https://github.com/yasir-othman/week15)
+
+**_Team Projects we worked on, but didn't succeed ....._**
+
+
+WIKINET PROJECT ....[wikinet](https://github.com/yasir-othman/mediaeiki-project)
+
+MOIN MOIN PROJECT ..... [moinmoin](https://github.com/yasir-othman/Wikinets_Moinmoin)
+
+**_Team project that was successfully executed_**
+
+POSTFIX PROJECT ...... [POSTFIX](https://github.com/yasir-othman/Postfixers)
