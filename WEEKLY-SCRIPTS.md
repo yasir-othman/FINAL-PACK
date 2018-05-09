@@ -46,7 +46,12 @@ Week 13 we started to work on group project/ POSTFIX, however our initial projec
 
 [Week-15](https://github.com/yasir-othman/week15)
 
-**_Team Projects we worked on, but didn't succeed ....._**
+**_Team Projects we worked on, but didn't succeed ....._** 
+
+team distribution was Ron- documentation, Kashia- test, yasir- research, Juan- support...
+we communicate the texting also we met at shool once or twice a week, we didn't successd 
+the first couple times, but on the 3rd project we successded.. and the links below show 
+all the projects that's we worked on......
 
 
 WIKINET PROJECT ....[wikinet](https://github.com/yasir-othman/mediaeiki-project)
